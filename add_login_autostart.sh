@@ -48,7 +48,26 @@ _EOF_
 
 #自動起動の登録を行う
 
+AS_EXEC="liferea"
+add_autostart
+AS_EXEC="rhythmbox"
+add_autostart
+AS_EXEC="chromium-browser"
+add_autostart
+AS_EXEC="firefox"
+add_autostart
 AS_EXEC="skype"
 add_autostart
-
+AS_EXEC="thunderbird"
+add_autostart
+AS_NAME="terminal"
+AS_EXEC="gnome-terminal"
+add_autostart
+AS_EXEC="gimp"
+add_autostart
+AS_EXEC="krita"
+add_autostart
+AS_NAME="homedir"
+AS_EXEC="nautilus"
+add_autostart
 
