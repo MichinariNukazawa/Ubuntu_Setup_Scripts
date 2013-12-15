@@ -11,7 +11,7 @@ bashrcの設定ファイルに追記します。
 
 ##add_shortcut.sh
 
-カスタムショートカットを設定します  
+Ubuntuデスクトップ環境にカスタムショートカットを設定します(Ubuntu12.04)  
 [PrintScreen][]
 
  * サスペンド(CTRL+ALT+SHIFT+L)
@@ -25,8 +25,7 @@ vimrcの設定ファイルに追記します
  * オートインデント
  * シンタックスおよび空白文字の表示
  * split時のファイル名補完の挙動を変更
-
-その他  
+ * その他
 
 
 [PrintScreen]: http://blog.michinari-nukazawa.com/2013/12/different-method-screenshot-printscreen.html "PrintScreen"
